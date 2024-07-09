@@ -1,0 +1,19 @@
+{
+  "name": "holly-day-package-tasir-ullah",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "holly-day-package-tasir-ullah": "index.js"
+  },
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.18"
+  }
+}
